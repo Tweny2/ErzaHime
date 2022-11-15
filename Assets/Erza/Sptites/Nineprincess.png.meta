@@ -1,0 +1,4909 @@
+fileFormatVersion: 2
+guid: 9dc62edbcda80af47a9cc2639f2f711b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4030356585820405025
+    second: Nineprincess_0
+  - first:
+      213: -2470813039821134260
+    second: Nineprincess_1
+  - first:
+      213: -8375396905199798059
+    second: Nineprincess_2
+  - first:
+      213: 4856512209628862001
+    second: Nineprincess_3
+  - first:
+      213: -1845824469812705315
+    second: Nineprincess_4
+  - first:
+      213: 2207125059928067675
+    second: Nineprincess_5
+  - first:
+      213: 5471107359563884632
+    second: Nineprincess_6
+  - first:
+      213: -690549212950298059
+    second: Nineprincess_7
+  - first:
+      213: 1763302749897919952
+    second: Nineprincess_8
+  - first:
+      213: 4485598832035166108
+    second: Nineprincess_9
+  - first:
+      213: -3087494215981853355
+    second: Nineprincess_10
+  - first:
+      213: 8435735019540086354
+    second: Nineprincess_11
+  - first:
+      213: 2797674967197614118
+    second: Nineprincess_12
+  - first:
+      213: -4762587865346092858
+    second: Nineprincess_13
+  - first:
+      213: 3780949203907504322
+    second: Nineprincess_14
+  - first:
+      213: 2172935499736304048
+    second: Nineprincess_15
+  - first:
+      213: 7316324694479552456
+    second: Nineprincess_16
+  - first:
+      213: -6390732392607181266
+    second: Nineprincess_17
+  - first:
+      213: -5321297550512505291
+    second: Nineprincess_18
+  - first:
+      213: -3966291148288109710
+    second: Nineprincess_19
+  - first:
+      213: -288865809969119190
+    second: Nineprincess_20
+  - first:
+      213: 2120017001665006365
+    second: Nineprincess_21
+  - first:
+      213: -1285047581047352206
+    second: Nineprincess_22
+  - first:
+      213: -8617994155799183007
+    second: Nineprincess_23
+  - first:
+      213: 7034107539802572933
+    second: Nineprincess_24
+  - first:
+      213: -4710404045216909557
+    second: Nineprincess_25
+  - first:
+      213: -6885388941659053492
+    second: Nineprincess_26
+  - first:
+      213: -6295334029632231357
+    second: Nineprincess_27
+  - first:
+      213: -3991439376395109787
+    second: Nineprincess_28
+  - first:
+      213: 4485005303969136558
+    second: Nineprincess_29
+  - first:
+      213: -1945044804709710
+    second: Nineprincess_30
+  - first:
+      213: 6629970207155616
+    second: Nineprincess_31
+  - first:
+      213: -6064163331745930707
+    second: Nineprincess_32
+  - first:
+      213: -1684460678324055340
+    second: Nineprincess_33
+  - first:
+      213: -5982824009600381030
+    second: Nineprincess_34
+  - first:
+      213: -1316547129201510658
+    second: Nineprincess_35
+  - first:
+      213: 3446614968808038722
+    second: Nineprincess_36
+  - first:
+      213: -1822762283944060220
+    second: Nineprincess_37
+  - first:
+      213: 4188814701781140684
+    second: Nineprincess_38
+  - first:
+      213: -947500888226829394
+    second: Nineprincess_39
+  - first:
+      213: -2394071614670456358
+    second: Nineprincess_40
+  - first:
+      213: -2234990755956280399
+    second: Nineprincess_41
+  - first:
+      213: -3719104357729179003
+    second: Nineprincess_42
+  - first:
+      213: 5053549629071669311
+    second: Nineprincess_43
+  - first:
+      213: -1131133372172552205
+    second: Nineprincess_44
+  - first:
+      213: -3470270369809491248
+    second: Nineprincess_45
+  - first:
+      213: 522337078012190246
+    second: Nineprincess_46
+  - first:
+      213: 3155017476488295963
+    second: Nineprincess_47
+  - first:
+      213: -2367824659251111590
+    second: Nineprincess_48
+  - first:
+      213: 8251376516021902201
+    second: Nineprincess_49
+  - first:
+      213: 649685608421821587
+    second: Nineprincess_50
+  - first:
+      213: 1088926800842511608
+    second: Nineprincess_51
+  - first:
+      213: 2753756240640141217
+    second: Nineprincess_52
+  - first:
+      213: -9202072725566443712
+    second: Nineprincess_53
+  - first:
+      213: 7006594212429483018
+    second: Nineprincess_54
+  - first:
+      213: -6097717792640710046
+    second: Nineprincess_55
+  - first:
+      213: -6562049985840481514
+    second: Nineprincess_56
+  - first:
+      213: -5937551660007410127
+    second: Nineprincess_57
+  - first:
+      213: -6329613018089841576
+    second: Nineprincess_58
+  - first:
+      213: 1689402098459468749
+    second: Nineprincess_59
+  - first:
+      213: 4155480809653106497
+    second: Nineprincess_60
+  - first:
+      213: 8706287670340054685
+    second: Nineprincess_61
+  - first:
+      213: 6551994442185302351
+    second: Nineprincess_62
+  - first:
+      213: 7466883709276106554
+    second: Nineprincess_63
+  - first:
+      213: -8613913865922432114
+    second: Nineprincess_64
+  - first:
+      213: 6293194338330727091
+    second: Nineprincess_65
+  - first:
+      213: -9108640594416151883
+    second: Nineprincess_66
+  - first:
+      213: -7978419554113397149
+    second: Nineprincess_67
+  - first:
+      213: 8794092534890859205
+    second: Nineprincess_68
+  - first:
+      213: 4521282552697975228
+    second: Nineprincess_69
+  - first:
+      213: 4616872516300853105
+    second: Nineprincess_70
+  - first:
+      213: 5020462220110029317
+    second: Nineprincess_71
+  - first:
+      213: -4465696452767415636
+    second: Nineprincess_72
+  - first:
+      213: 3212218515679035359
+    second: Nineprincess_73
+  - first:
+      213: -8604186597893765783
+    second: Nineprincess_74
+  - first:
+      213: 8155681750484380531
+    second: Nineprincess_75
+  - first:
+      213: -8986667382211849268
+    second: Nineprincess_76
+  - first:
+      213: -5564212098034778366
+    second: Nineprincess_77
+  - first:
+      213: 9166177253917013950
+    second: Nineprincess_78
+  - first:
+      213: -4783743275687409905
+    second: Nineprincess_79
+  - first:
+      213: -101706201836379785
+    second: Nineprincess_80
+  - first:
+      213: 4107222190172661890
+    second: Nineprincess_81
+  - first:
+      213: 2612967938573827348
+    second: Nineprincess_82
+  - first:
+      213: -3863273647730559159
+    second: Nineprincess_83
+  - first:
+      213: 3997034251203830959
+    second: Nineprincess_84
+  - first:
+      213: -8164054140992679255
+    second: Nineprincess_85
+  - first:
+      213: -4362934993114937831
+    second: Nineprincess_86
+  - first:
+      213: 3935801011029053806
+    second: Nineprincess_87
+  - first:
+      213: -1053918663236079568
+    second: Nineprincess_88
+  - first:
+      213: 1710015150130806676
+    second: Nineprincess_89
+  - first:
+      213: -5347732993780135475
+    second: Nineprincess_90
+  - first:
+      213: -8136775740524140043
+    second: Nineprincess_91
+  - first:
+      213: -332403853360876233
+    second: Nineprincess_92
+  - first:
+      213: -3846103876440314529
+    second: Nineprincess_93
+  - first:
+      213: 8402738087721896380
+    second: Nineprincess_94
+  - first:
+      213: -319355370411879743
+    second: Nineprincess_95
+  - first:
+      213: -67496486080774300
+    second: Nineprincess_96
+  - first:
+      213: 631061416754761104
+    second: Nineprincess_97
+  - first:
+      213: -6471282095571231194
+    second: Nineprincess_98
+  - first:
+      213: -6347276443041431637
+    second: Nineprincess_99
+  - first:
+      213: 9035055885515455075
+    second: Nineprincess_100
+  - first:
+      213: 412327116463112651
+    second: Nineprincess_101
+  - first:
+      213: -4565471162878734198
+    second: Nineprincess_102
+  - first:
+      213: 4068440396997308715
+    second: Nineprincess_103
+  - first:
+      213: 4480987669521666579
+    second: Nineprincess_104
+  - first:
+      213: -3890544518143184072
+    second: Nineprincess_105
+  - first:
+      213: 3092232067521318280
+    second: Nineprincess_106
+  - first:
+      213: 9148069171564346928
+    second: Nineprincess_107
+  - first:
+      213: 4098780727207837527
+    second: Nineprincess_108
+  - first:
+      213: -8063275308868268490
+    second: Nineprincess_109
+  - first:
+      213: 1386233397498363017
+    second: Nineprincess_110
+  - first:
+      213: 321851886320723057
+    second: Nineprincess_111
+  - first:
+      213: 7677692414321781486
+    second: Nineprincess_112
+  - first:
+      213: 4627197191525437037
+    second: Nineprincess_113
+  - first:
+      213: -3976271149032335054
+    second: Nineprincess_114
+  - first:
+      213: 6500070089210504361
+    second: Nineprincess_115
+  - first:
+      213: 8705673939871344407
+    second: Nineprincess_116
+  - first:
+      213: 2045345754612660868
+    second: Nineprincess_117
+  - first:
+      213: -9169727404009548592
+    second: Nineprincess_118
+  - first:
+      213: -7103935881995195371
+    second: Nineprincess_119
+  - first:
+      213: -4240229344632244225
+    second: Nineprincess_120
+  - first:
+      213: -9065464587479986776
+    second: Nineprincess_121
+  - first:
+      213: -4724571220105071713
+    second: Nineprincess_122
+  - first:
+      213: -4265525340039480018
+    second: Nineprincess_123
+  - first:
+      213: 7273612357750844501
+    second: Nineprincess_124
+  - first:
+      213: 8038925934821324700
+    second: Nineprincess_125
+  - first:
+      213: 1993173619846148830
+    second: Nineprincess_126
+  - first:
+      213: -7952399727882791279
+    second: Nineprincess_127
+  - first:
+      213: -805477814858580289
+    second: Nineprincess_128
+  - first:
+      213: 3513093274934650876
+    second: Nineprincess_129
+  - first:
+      213: -3897983645513482696
+    second: Nineprincess_130
+  - first:
+      213: 6396697742734676749
+    second: Nineprincess_131
+  - first:
+      213: -8253613672523463402
+    second: Nineprincess_132
+  - first:
+      213: -2727534515477458473
+    second: Nineprincess_133
+  - first:
+      213: -7940788951632903059
+    second: Nineprincess_134
+  - first:
+      213: -3770490200105729382
+    second: Nineprincess_135
+  - first:
+      213: 256031815875509420
+    second: Nineprincess_136
+  - first:
+      213: -5791499356073457261
+    second: Nineprincess_137
+  - first:
+      213: 8939515418640656731
+    second: Nineprincess_138
+  - first:
+      213: -9086833820403184570
+    second: Nineprincess_139
+  - first:
+      213: -4594972130044042841
+    second: Nineprincess_140
+  - first:
+      213: 5230445687233719918
+    second: Nineprincess_141
+  - first:
+      213: 199290802451475374
+    second: Nineprincess_142
+  - first:
+      213: -5873537012793349894
+    second: Nineprincess_143
+  - first:
+      213: -3389508977249832959
+    second: Nineprincess_144
+  - first:
+      213: 8194118797476660862
+    second: Nineprincess_145
+  - first:
+      213: 7912185994025850632
+    second: Nineprincess_146
+  - first:
+      213: -8957317783133045274
+    second: Nineprincess_147
+  - first:
+      213: 837383335789795782
+    second: Nineprincess_148
+  - first:
+      213: -2860692354864607814
+    second: Nineprincess_149
+  - first:
+      213: 4905886714574036310
+    second: Nineprincess_150
+  - first:
+      213: -8428741368006470160
+    second: Nineprincess_151
+  - first:
+      213: 5881869532823325297
+    second: Nineprincess_152
+  - first:
+      213: 8346124142175988162
+    second: Nineprincess_153
+  - first:
+      213: -1645456991651372003
+    second: Nineprincess_154
+  - first:
+      213: -3936803773940462069
+    second: Nineprincess_155
+  - first:
+      213: 6677073358410149537
+    second: Nineprincess_156
+  - first:
+      213: 6400496547897120628
+    second: Nineprincess_157
+  - first:
+      213: 3018018865261983660
+    second: Nineprincess_158
+  - first:
+      213: -6959935757113240754
+    second: Nineprincess_159
+  - first:
+      213: 5458580079393003659
+    second: Nineprincess_160
+  - first:
+      213: 3358874094570447778
+    second: Nineprincess_161
+  - first:
+      213: 6637906963057926603
+    second: Nineprincess_162
+  - first:
+      213: -6512178024301215770
+    second: Nineprincess_163
+  - first:
+      213: -5935093942862733706
+    second: Nineprincess_164
+  - first:
+      213: 4471703933033259095
+    second: Nineprincess_165
+  - first:
+      213: 4785972465409204109
+    second: Nineprincess_166
+  - first:
+      213: 3419612513536026932
+    second: Nineprincess_167
+  - first:
+      213: 2904973642633283569
+    second: Nineprincess_168
+  - first:
+      213: 2695809595817569814
+    second: Nineprincess_169
+  - first:
+      213: 8865161010753140314
+    second: Nineprincess_170
+  - first:
+      213: 1506990254897854424
+    second: Nineprincess_171
+  - first:
+      213: -7290658356007311044
+    second: Nineprincess_172
+  - first:
+      213: 4784708641291185537
+    second: Nineprincess_173
+  - first:
+      213: -2938779201236525363
+    second: Nineprincess_174
+  - first:
+      213: 1690479463131819852
+    second: Nineprincess_175
+  - first:
+      213: 1188918905138570409
+    second: Nineprincess_176
+  - first:
+      213: 8280594862779046191
+    second: Nineprincess_177
+  - first:
+      213: -5436335539714901400
+    second: Nineprincess_178
+  - first:
+      213: 9142577846252822630
+    second: Nineprincess_179
+  - first:
+      213: -5800544845575858862
+    second: Nineprincess_180
+  - first:
+      213: -9160984740405828298
+    second: Nineprincess_181
+  - first:
+      213: 4668641849163634906
+    second: Nineprincess_182
+  - first:
+      213: -1680331405924839360
+    second: Nineprincess_183
+  - first:
+      213: -621612884363368678
+    second: Nineprincess_184
+  - first:
+      213: -7741998646492696189
+    second: Nineprincess_185
+  - first:
+      213: -7095667295296546775
+    second: Nineprincess_186
+  - first:
+      213: -4972309134379966930
+    second: Nineprincess_187
+  - first:
+      213: -1661421981199159381
+    second: Nineprincess_188
+  - first:
+      213: 9115296727421415199
+    second: Nineprincess_189
+  - first:
+      213: -7865219760454659921
+    second: Nineprincess_190
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nineprincess_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1644
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3bf706f3bee730800000000000000
+      internalID: 4030356585820405025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1676
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ee0791a8e5bdd0800000000000000
+      internalID: -2470813039821134260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1676
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f8a4b3ec94cb80800000000000000
+      internalID: -8375396905199798059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1676
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136964eaf1cc56340800000000000000
+      internalID: 4856512209628862001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1676
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7071f9c605266e0800000000000000
+      internalID: -1845824469812705315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1747
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e00e35c8841ae10800000000000000
+      internalID: 2207125059928067675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1747
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a4d608274deb40800000000000000
+      internalID: 5471107359563884632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1764
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5320c26462daa66f0800000000000000
+      internalID: -690549212950298059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1764
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd82273282887810800000000000000
+      internalID: 1763302749897919952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1749
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97fc5c3f5c004e30800000000000000
+      internalID: 4485598832035166108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1747
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555145a6e540725d0800000000000000
+      internalID: -3087494215981853355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1749
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e720b4e40c11570800000000000000
+      internalID: 8435735019540086354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1749
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62001d85f8653d620800000000000000
+      internalID: 2797674967197614118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1749
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d57ad193e7edb0800000000000000
+      internalID: -4762587865346092858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1749
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8e3b4c441a87430800000000000000
+      internalID: 3780949203907504322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1749
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94e950351d72e10800000000000000
+      internalID: 2172935499736304048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1734
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf3fdbcb8ec88560800000000000000
+      internalID: 7316324694479552456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1734
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26111c9fbe8f47a0800000000000000
+      internalID: -6390732392607181266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1734
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ebb8d3214f626b0800000000000000
+      internalID: -5321297550512505291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1717
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d2860737e4f8c0800000000000000
+      internalID: -3966291148288109710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1717
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200909831ebdfbf0800000000000000
+      internalID: -288865809969119190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1717
+        width: 76
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b080e0b30db6d10800000000000000
+      internalID: 2120017001665006365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1704
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274923498089a2ee0800000000000000
+      internalID: -1285047581047352206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1704
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618233b9fbb66880800000000000000
+      internalID: -8617994155799183007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_24
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1704
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58844d50a8b2e9160800000000000000
+      internalID: 7034107539802572933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_25
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1704
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0778484a7841aeb0800000000000000
+      internalID: -4710404045216909557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_26
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1643
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426208ec3f2270a0800000000000000
+      internalID: -6885388941659053492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1644
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a75ddd0b72a8a0800000000000000
+      internalID: -6295334029632231357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1643
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7673e80f8b98c0800000000000000
+      internalID: -3991439376395109787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1643
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb2d6bf80fd3e30800000000000000
+      internalID: 4485005303969136558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_30
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1648
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d757fdf619fff0800000000000000
+      internalID: -1945044804709710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a11b3ced871000800000000000000
+      internalID: 6629970207155616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_32
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1648
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a55f3493c7dba0800000000000000
+      internalID: -6064163331745930707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1648
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2916e00f79f98e0800000000000000
+      internalID: -1684460678324055340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1643
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f471af24db8fca0800000000000000
+      internalID: -5982824009600381030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1570
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef632e18c5faabde0800000000000000
+      internalID: -1316547129201510658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1570
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e85d9d06d4df20800000000000000
+      internalID: 3446614968808038722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_37
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1570
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad8833c5f34b6e0800000000000000
+      internalID: -1822762283944060220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1570
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4499927c8a12a30800000000000000
+      internalID: 4188814701781140684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1570
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6fd456fcc9d2f0800000000000000
+      internalID: -947500888226829394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1570
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b8b00d8c86ced0800000000000000
+      internalID: -2394071614670456358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_41
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1570
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b1fabfb7bbf0e0800000000000000
+      internalID: -2234990755956280399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_42
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1565
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae1f29a46136cc0800000000000000
+      internalID: -3719104357729179003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_43
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1565
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38bf9fdc90d12640800000000000000
+      internalID: 5053549629071669311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_44
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1565
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b016e0386d40f0800000000000000
+      internalID: -1131133372172552205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1493
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da11f42c7f17dfc0800000000000000
+      internalID: -3470270369809491248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1496
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e9ee31ec6bf3700800000000000000
+      internalID: 522337078012190246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1494
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16fb3acdafd8cb20800000000000000
+      internalID: 3155017476488295963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1496
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595de6840cc32fd0800000000000000
+      internalID: -2367824659251111590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1493
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5c714937c28270800000000000000
+      internalID: 8251376516021902201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1495
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8aa16e95240900800000000000000
+      internalID: 649685608421821587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1496
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4de9ee725ac1f00800000000000000
+      internalID: 1088926800842511608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_52
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1496
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ee59f5be473620800000000000000
+      internalID: 2753756240640141217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1496
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f2d4b5c9bab4080800000000000000
+      internalID: -9202072725566443712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1411
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cca2d405c6c3160800000000000000
+      internalID: 7006594212429483018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1412
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a421589fd806ba0800000000000000
+      internalID: -6097717792640710046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1425
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bfe9b1e4aeee4a0800000000000000
+      internalID: -6562049985840481514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1431
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363ab54934999da0800000000000000
+      internalID: -5937551660007410127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_58
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1415
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c111bee72b828a0800000000000000
+      internalID: -6329613018089841576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1413
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3e979f146f17710800000000000000
+      internalID: 1689402098459468749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1412
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147735a97cb3ba930800000000000000
+      internalID: 4155480809653106497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_61
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1411
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e6bfe1282f2d870800000000000000
+      internalID: 8706287670340054685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1412
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e9c03b3c5dea50800000000000000
+      internalID: 6551994442185302351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_63
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1412
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fad8e1c23bf9760800000000000000
+      internalID: 7466883709276106554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1416
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b1e73afa357880800000000000000
+      internalID: -8613913865922432114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1312
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2d3be68eae55750800000000000000
+      internalID: 6293194338330727091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1312
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25f1793ab979180800000000000000
+      internalID: -9108640594416151883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1312
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e5a00efa5f64190800000000000000
+      internalID: -7978419554113397149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1312
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca85104194ea0a70800000000000000
+      internalID: 8794092534890859205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_69
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1312
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fbb2e682debe30800000000000000
+      internalID: 4521282552697975228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_70
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1312
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f4063a71d621040800000000000000
+      internalID: 4616872516300853105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_71
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1312
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5026de52ac34ca540800000000000000
+      internalID: 5020462220110029317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_72
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1312
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2831a8cb8a602c0800000000000000
+      internalID: -4465696452767415636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1312
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf3bff88b7149c20800000000000000
+      internalID: 3212218515679035359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_74
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1312
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658d5b40e9c79880800000000000000
+      internalID: -8604186597893765783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1219
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37be1c6675dce2170800000000000000
+      internalID: 8155681750484380531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_76
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1224
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35ca811a1f84380800000000000000
+      internalID: -8986667382211849268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1224
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fb4b9c392f7c2b0800000000000000
+      internalID: -5564212098034778366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1224
+        width: 85
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb73dffd5adc43f70800000000000000
+      internalID: 9166177253917013950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_79
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1224
+        width: 85
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f070dfb06dabc9db0800000000000000
+      internalID: -4783743275687409905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1224
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771a6109fbaa69ef0800000000000000
+      internalID: -101706201836379785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_81
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1224
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e7da22d8cff830800000000000000
+      internalID: 4107222190172661890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_82
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1218
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d7d2cfe70234420800000000000000
+      internalID: 2612967938573827348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1142
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94774ecf515e26ac0800000000000000
+      internalID: -3863273647730559159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_84
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1145
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4e21a6971587730800000000000000
+      internalID: 3997034251203830959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_85
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1149
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21317830473be80800000000000000
+      internalID: -8164054140992679255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_86
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1150
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91643455dbdb373c0800000000000000
+      internalID: -4362934993114937831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1150
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e619201ba26ce9630800000000000000
+      internalID: 3935801011029053806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_88
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1147
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b8a74f8abf51f0800000000000000
+      internalID: -1053918663236079568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1147
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f351018b13bb710800000000000000
+      internalID: 1710015150130806676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_90
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1147
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94918fc2909c5b0800000000000000
+      internalID: -5347732993780135475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1049
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ea01139d541f80800000000000000
+      internalID: -8136775740524140043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1049
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735347ed470136bf0800000000000000
+      internalID: -332403853360876233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1049
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da583e6e4ef9ac0800000000000000
+      internalID: -3846103876440314529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1049
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90f4b65c58c9470800000000000000
+      internalID: 8402738087721896380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1049
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29c7d8bfb619bf0800000000000000
+      internalID: -319355370411879743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_96
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1049
+        width: 38
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f7193bd44301ff0800000000000000
+      internalID: -67496486080774300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_97
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1049
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4f19d30bf1c800800000000000000
+      internalID: 631061416754761104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_98
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 958
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e912c68336136a0800000000000000
+      internalID: -6471282095571231194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 952
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf7f4154b1f9e7a0800000000000000
+      internalID: -6347276443041431637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_100
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 952
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a73f54577f26d70800000000000000
+      internalID: 9035055885515455075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 953
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc18b0ce351e8b500800000000000000
+      internalID: 412327116463112651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_102
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 958
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80d2509a2034a0c0800000000000000
+      internalID: -4565471162878734198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_103
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 958
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bfdc4cf0067830800000000000000
+      internalID: 4068440396997308715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_104
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 926
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129ebc4b8aaf2e30800000000000000
+      internalID: 4480987669521666579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_105
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 870
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8337b3daf52020ac0800000000000000
+      internalID: -3890544518143184072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_106
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 870
+        width: 95
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0eab9ea0d9ea20800000000000000
+      internalID: 3092232067521318280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 870
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7bc7617874fe70800000000000000
+      internalID: 9148069171564346928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 870
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fb079ea5bc1e830800000000000000
+      internalID: 4098780727207837527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_109
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 910
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e8ab0e3dd791090800000000000000
+      internalID: -8063275308868268490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_110
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 870
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3ca13ee3ec3310800000000000000
+      internalID: 1386233397498363017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_111
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 870
+        width: 132
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174af6ad592777400800000000000000
+      internalID: 321851886320723057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 795
+        width: 143
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6c5a9294ac8a60800000000000000
+      internalID: 7677692414321781486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_113
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 795
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e0f8a645b173040800000000000000
+      internalID: 4627197191525437037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_114
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 795
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2391b47057271d8c0800000000000000
+      internalID: -3976271149032335054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_115
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 791
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a88aae43e43a50800000000000000
+      internalID: 6500070089210504361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_116
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 791
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717286cd254c0d870800000000000000
+      internalID: 8705673939871344407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 706
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7a8a8027826c10800000000000000
+      internalID: 2045345754612660868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_118
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 703
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d498d462859eb080800000000000000
+      internalID: -9169727404009548592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_119
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 703
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c668e14ffb96d90800000000000000
+      internalID: -7103935881995195371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_120
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 704
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7f10370eda725c0800000000000000
+      internalID: -4240229344632244225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_121
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 711
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad4f531dfff03280800000000000000
+      internalID: -9065464587479986776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_122
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 686
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937a95d183fe6eb0800000000000000
+      internalID: -4724571220105071713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_123
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 669
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df48e8d4fcdc4c0800000000000000
+      internalID: -4265525340039480018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_124
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 693
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c61a1f6ef01f460800000000000000
+      internalID: 7273612357750844501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_125
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 701
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9733b0bb80009f60800000000000000
+      internalID: 8038925934821324700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 628
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2fb92d8dc29ab10800000000000000
+      internalID: 1993173619846148830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_127
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 627
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19612a3c49663a190800000000000000
+      internalID: -7952399727882791279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_128
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 564
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe75eae13e52d4f0800000000000000
+      internalID: -805477814858580289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_129
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 622
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf72b4b68b301c030800000000000000
+      internalID: 3513093274934650876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_130
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 624
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef2ecd68497e9c0800000000000000
+      internalID: -3897983645513482696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_131
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 615
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035e33b4b2a5c850800000000000000
+      internalID: 6396697742734676749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_132
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 564
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6158ee72816457d80800000000000000
+      internalID: -8253613672523463402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_133
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 618
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1595c2fc9d52ad0800000000000000
+      internalID: -2727534515477458473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_134
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6403954586acc190800000000000000
+      internalID: -7940788951632903059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 564
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924b91d3278cabc0800000000000000
+      internalID: -3770490200105729382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 555
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac357c749b9d8300800000000000000
+      internalID: 256031815875509420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 554
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998654350670afa0800000000000000
+      internalID: -5791499356073457261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_138
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592430e8e98f0c70800000000000000
+      internalID: 8939515418640656731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_139
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 613
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cccd1d8c415e180800000000000000
+      internalID: -9086833820403184570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_140
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 564
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1a7e361316b30c0800000000000000
+      internalID: -4594972130044042841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_141
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 564
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2a84f3a6469840800000000000000
+      internalID: 5230445687233719918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_142
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 597
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6f1fcde504c200800000000000000
+      internalID: 199290802451475374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_143
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 564
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e759c4310d7ea0800000000000000
+      internalID: -5873537012793349894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_144
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 573
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b6082b8b06f0d0800000000000000
+      internalID: -3389508977249832959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_145
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 566
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7682fac1ab57b170800000000000000
+      internalID: 8194118797476660862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 497
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075bb2bd3bbdcd60800000000000000
+      internalID: 7912185994025850632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_147
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 497
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb0142fe631b380800000000000000
+      internalID: -8957317783133045274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_148
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 412
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9159e05bbfe9b00800000000000000
+      internalID: 837383335789795782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_149
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 412
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd8e98b577cc48d0800000000000000
+      internalID: -2860692354864607814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 419
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5e7279f5351440800000000000000
+      internalID: 4905886714574036310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_151
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 418
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f595581268170b80800000000000000
+      internalID: -8428741368006470160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_152
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 411
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a80273d2990a150800000000000000
+      internalID: 5881869532823325297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_153
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 416
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c926b900b363d370800000000000000
+      internalID: 8346124142175988162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_154
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 413
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ef6785992a29e0800000000000000
+      internalID: -1645456991651372003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_155
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 413
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8cdf53d9ad59c0800000000000000
+      internalID: -3936803773940462069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 335
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee243c7dab9ac50800000000000000
+      internalID: 6677073358410149537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_157
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 337
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779583f2b123d850800000000000000
+      internalID: 6400496547897120628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_158
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73e55fa2822e920800000000000000
+      internalID: 3018018865261983660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_159
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 340
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d9b1ed47596f90800000000000000
+      internalID: -6959935757113240754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_160
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 340
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885e3259a5c0cb40800000000000000
+      internalID: 5458580079393003659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_161
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 338
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a32224613e1d9e20800000000000000
+      internalID: 3358874094570447778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_162
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 338
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e829b6359e1c50800000000000000
+      internalID: 6637906963057926603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_163
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 337
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efbb63079810a5a0800000000000000
+      internalID: -6512178024301215770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_164
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e1813218f42ada0800000000000000
+      internalID: -5935093942862733706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_165
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 246
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502a25f80fae0e30800000000000000
+      internalID: 4471703933033259095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_166
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 184
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1481a9903b6240800000000000000
+      internalID: 4785972465409204109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 184
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439abc29677e47f20800000000000000
+      internalID: 3419612513536026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_168
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 184
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78703032a805820800000000000000
+      internalID: 2904973642633283569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_169
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 188
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eabcc5b80796520800000000000000
+      internalID: 2695809595817569814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56759a38f0670b70800000000000000
+      internalID: 8865161010753140314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_171
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7792707a7e9e410800000000000000
+      internalID: 1506990254897854424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_172
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39637f4ad062da90800000000000000
+      internalID: -7290658356007311044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d27e5a823b66240800000000000000
+      internalID: 4784708641291185537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_174
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 209
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9df403eb5737d0800000000000000
+      internalID: -2938779201236525363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_175
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 218
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa01c7d1ac57710800000000000000
+      internalID: 1690479463131819852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 229
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e78fe173ef7010800000000000000
+      internalID: 1188918905138570409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_177
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 188
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f299edcb7259ae270800000000000000
+      internalID: 8280594862779046191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_178
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 186
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a367b21a14e84b0800000000000000
+      internalID: -5436335539714901400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_179
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 209
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66061499c16f0ee70800000000000000
+      internalID: 9142577846252822630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_180
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 218
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555abf0233508fa0800000000000000
+      internalID: -5800544845575858862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_181
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63526536ae4add080800000000000000
+      internalID: -9160984740405828298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_182
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 187
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8dbeab6095ac040800000000000000
+      internalID: 4668641849163634906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_183
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 186
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040dae43d734ea8e0800000000000000
+      internalID: -1680331405924839360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_184
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1727b700669f57f0800000000000000
+      internalID: -621612884363368678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_185
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 187
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817f38ff35ee8490800000000000000
+      internalID: -7741998646492696189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_186
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 206
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281e7b7030278d90800000000000000
+      internalID: -7095667295296546775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_187
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e1adbcf2fcefab0800000000000000
+      internalID: -4972309134379966930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_188
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf299cb28171f8e0800000000000000
+      internalID: -1661421981199159381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_189
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1feb34241a008e70800000000000000
+      internalID: 9115296727421415199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nineprincess_190
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 12
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa097b1bc4029d290800000000000000
+      internalID: -7865219760454659921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nineprincess_172: -7290658356007311044
+      Nineprincess_94: 8402738087721896380
+      Nineprincess_138: 8939515418640656731
+      Nineprincess_170: 8865161010753140314
+      Nineprincess_17: -6390732392607181266
+      Nineprincess_49: 8251376516021902201
+      Nineprincess_108: 4098780727207837527
+      Nineprincess_165: 4471703933033259095
+      Nineprincess_91: -8136775740524140043
+      Nineprincess_174: -2938779201236525363
+      Nineprincess_42: -3719104357729179003
+      Nineprincess_135: -3770490200105729382
+      Nineprincess_149: -2860692354864607814
+      Nineprincess_56: -6562049985840481514
+      Nineprincess_11: 8435735019540086354
+      Nineprincess_125: 8038925934821324700
+      Nineprincess_26: -6885388941659053492
+      Nineprincess_34: -5982824009600381030
+      Nineprincess_81: 4107222190172661890
+      Nineprincess_33: -1684460678324055340
+      Nineprincess_97: 631061416754761104
+      Nineprincess_1: -2470813039821134260
+      Nineprincess_22: -1285047581047352206
+      Nineprincess_166: 4785972465409204109
+      Nineprincess_50: 649685608421821587
+      Nineprincess_136: 256031815875509420
+      Nineprincess_55: -6097717792640710046
+      Nineprincess_46: 522337078012190246
+      Nineprincess_190: -7865219760454659921
+      Nineprincess_62: 6551994442185302351
+      Nineprincess_104: 4480987669521666579
+      Nineprincess_173: 4784708641291185537
+      Nineprincess_40: -2394071614670456358
+      Nineprincess_93: -3846103876440314529
+      Nineprincess_82: 2612967938573827348
+      Nineprincess_30: -1945044804709710
+      Nineprincess_100: 9035055885515455075
+      Nineprincess_27: -6295334029632231357
+      Nineprincess_70: 4616872516300853105
+      Nineprincess_99: -6347276443041431637
+      Nineprincess_107: 9148069171564346928
+      Nineprincess_0: 4030356585820405025
+      Nineprincess_13: -4762587865346092858
+      Nineprincess_87: 3935801011029053806
+      Nineprincess_179: 9142577846252822630
+      Nineprincess_106: 3092232067521318280
+      Nineprincess_146: 7912185994025850632
+      Nineprincess_3: 4856512209628862001
+      Nineprincess_164: -5935093942862733706
+      Nineprincess_39: -947500888226829394
+      Nineprincess_102: -4565471162878734198
+      Nineprincess_18: -5321297550512505291
+      Nineprincess_72: -4465696452767415636
+      Nineprincess_144: -3389508977249832959
+      Nineprincess_128: -805477814858580289
+      Nineprincess_89: 1710015150130806676
+      Nineprincess_24: 7034107539802572933
+      Nineprincess_134: -7940788951632903059
+      Nineprincess_47: 3155017476488295963
+      Nineprincess_15: 2172935499736304048
+      Nineprincess_101: 412327116463112651
+      Nineprincess_137: -5791499356073457261
+      Nineprincess_111: 321851886320723057
+      Nineprincess_64: -8613913865922432114
+      Nineprincess_66: -9108640594416151883
+      Nineprincess_163: -6512178024301215770
+      Nineprincess_171: 1506990254897854424
+      Nineprincess_117: 2045345754612660868
+      Nineprincess_83: -3863273647730559159
+      Nineprincess_154: -1645456991651372003
+      Nineprincess_116: 8705673939871344407
+      Nineprincess_48: -2367824659251111590
+      Nineprincess_67: -7978419554113397149
+      Nineprincess_61: 8706287670340054685
+      Nineprincess_37: -1822762283944060220
+      Nineprincess_145: 8194118797476660862
+      Nineprincess_59: 1689402098459468749
+      Nineprincess_25: -4710404045216909557
+      Nineprincess_43: 5053549629071669311
+      Nineprincess_143: -5873537012793349894
+      Nineprincess_156: 6677073358410149537
+      Nineprincess_31: 6629970207155616
+      Nineprincess_32: -6064163331745930707
+      Nineprincess_84: 3997034251203830959
+      Nineprincess_57: -5937551660007410127
+      Nineprincess_110: 1386233397498363017
+      Nineprincess_112: 7677692414321781486
+      Nineprincess_189: 9115296727421415199
+      Nineprincess_168: 2904973642633283569
+      Nineprincess_123: -4265525340039480018
+      Nineprincess_186: -7095667295296546775
+      Nineprincess_169: 2695809595817569814
+      Nineprincess_90: -5347732993780135475
+      Nineprincess_153: 8346124142175988162
+      Nineprincess_187: -4972309134379966930
+      Nineprincess_188: -1661421981199159381
+      Nineprincess_167: 3419612513536026932
+      Nineprincess_122: -4724571220105071713
+      Nineprincess_16: 7316324694479552456
+      Nineprincess_44: -1131133372172552205
+      Nineprincess_147: -8957317783133045274
+      Nineprincess_160: 5458580079393003659
+      Nineprincess_162: 6637906963057926603
+      Nineprincess_96: -67496486080774300
+      Nineprincess_151: -8428741368006470160
+      Nineprincess_60: 4155480809653106497
+      Nineprincess_78: 9166177253917013950
+      Nineprincess_38: 4188814701781140684
+      Nineprincess_95: -319355370411879743
+      Nineprincess_159: -6959935757113240754
+      Nineprincess_68: 8794092534890859205
+      Nineprincess_75: 8155681750484380531
+      Nineprincess_5: 2207125059928067675
+      Nineprincess_35: -1316547129201510658
+      Nineprincess_114: -3976271149032335054
+      Nineprincess_45: -3470270369809491248
+      Nineprincess_177: 8280594862779046191
+      Nineprincess_20: -288865809969119190
+      Nineprincess_182: 4668641849163634906
+      Nineprincess_119: -7103935881995195371
+      Nineprincess_142: 199290802451475374
+      Nineprincess_127: -7952399727882791279
+      Nineprincess_7: -690549212950298059
+      Nineprincess_121: -9065464587479986776
+      Nineprincess_73: 3212218515679035359
+      Nineprincess_178: -5436335539714901400
+      Nineprincess_53: -9202072725566443712
+      Nineprincess_74: -8604186597893765783
+      Nineprincess_85: -8164054140992679255
+      Nineprincess_6: 5471107359563884632
+      Nineprincess_76: -8986667382211849268
+      Nineprincess_183: -1680331405924839360
+      Nineprincess_115: 6500070089210504361
+      Nineprincess_98: -6471282095571231194
+      Nineprincess_131: 6396697742734676749
+      Nineprincess_52: 2753756240640141217
+      Nineprincess_161: 3358874094570447778
+      Nineprincess_54: 7006594212429483018
+      Nineprincess_152: 5881869532823325297
+      Nineprincess_79: -4783743275687409905
+      Nineprincess_71: 5020462220110029317
+      Nineprincess_150: 4905886714574036310
+      Nineprincess_132: -8253613672523463402
+      Nineprincess_41: -2234990755956280399
+      Nineprincess_140: -4594972130044042841
+      Nineprincess_158: 3018018865261983660
+      Nineprincess_113: 4627197191525437037
+      Nineprincess_65: 6293194338330727091
+      Nineprincess_109: -8063275308868268490
+      Nineprincess_12: 2797674967197614118
+      Nineprincess_157: 6400496547897120628
+      Nineprincess_21: 2120017001665006365
+      Nineprincess_184: -621612884363368678
+      Nineprincess_9: 4485598832035166108
+      Nineprincess_126: 1993173619846148830
+      Nineprincess_14: 3780949203907504322
+      Nineprincess_129: 3513093274934650876
+      Nineprincess_23: -8617994155799183007
+      Nineprincess_63: 7466883709276106554
+      Nineprincess_181: -9160984740405828298
+      Nineprincess_180: -5800544845575858862
+      Nineprincess_29: 4485005303969136558
+      Nineprincess_133: -2727534515477458473
+      Nineprincess_120: -4240229344632244225
+      Nineprincess_124: 7273612357750844501
+      Nineprincess_148: 837383335789795782
+      Nineprincess_118: -9169727404009548592
+      Nineprincess_175: 1690479463131819852
+      Nineprincess_2: -8375396905199798059
+      Nineprincess_185: -7741998646492696189
+      Nineprincess_103: 4068440396997308715
+      Nineprincess_19: -3966291148288109710
+      Nineprincess_92: -332403853360876233
+      Nineprincess_155: -3936803773940462069
+      Nineprincess_28: -3991439376395109787
+      Nineprincess_58: -6329613018089841576
+      Nineprincess_141: 5230445687233719918
+      Nineprincess_69: 4521282552697975228
+      Nineprincess_176: 1188918905138570409
+      Nineprincess_8: 1763302749897919952
+      Nineprincess_130: -3897983645513482696
+      Nineprincess_80: -101706201836379785
+      Nineprincess_4: -1845824469812705315
+      Nineprincess_139: -9086833820403184570
+      Nineprincess_88: -1053918663236079568
+      Nineprincess_10: -3087494215981853355
+      Nineprincess_36: 3446614968808038722
+      Nineprincess_77: -5564212098034778366
+      Nineprincess_51: 1088926800842511608
+      Nineprincess_86: -4362934993114937831
+      Nineprincess_105: -3890544518143184072
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
